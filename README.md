@@ -4,7 +4,11 @@ Visit My Site : http://www.dishantrathi.tk
 
 ## Articles
 
+
 ## Projects
+
+* [SICCiPy](https://github.com/dishantrathi/SICCiPy)
+* [CryptoLivePrice](https://github.com/dishantrathi/SICCiPy)
 
 ## The Fun Stuff
 
