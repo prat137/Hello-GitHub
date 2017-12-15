@@ -8,7 +8,7 @@ Visit My Site : http://www.dishantrathi.tk
 ## Projects
 
 * [SICCiPy](https://github.com/dishantrathi/SICCiPy)
-* [CryptoLivePrice](https://github.com/dishantrathi/SICCiPy)
+* [CryptoLivePrice](https://github.com/dishantrathi/Crypto-Currency-Live-Exchange-Rates)
 
 ## The Fun Stuff
 
