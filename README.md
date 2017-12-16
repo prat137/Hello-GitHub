@@ -13,8 +13,8 @@ Visit My Site : http://www.dishantrathi.tk
 
 ## The Fun Stuff
 
-*Visit My Drive : http://files.dishantrathi.tk
+* Visit My Drive : http://files.dishantrathi.tk
 
 ## Bugs or Errors 
 
-Report ASAP [Report Here](http://mailto:dishantrathi97@gmail.com?subject=Bug Found)
+Report ASAP : dishantrathi97 [at] gmail [dot] com
