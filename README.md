@@ -4,6 +4,7 @@ Visit My Site : http://www.dishantrathi.tk
 
 ## Articles
 
+* AI : Posting Soon
 
 ## Projects
 
@@ -12,6 +13,8 @@ Visit My Site : http://www.dishantrathi.tk
 
 ## The Fun Stuff
 
+*Visit My Drive : http://files.dishantrathi.tk
+
 ## Bugs or Errors 
 
-Report ASAP [Report Here](mailto:dishantrathi97@gmail.com?subject=Bug Found)
+Report ASAP [Report Here](http://mailto:dishantrathi97@gmail.com?subject=Bug Found)
