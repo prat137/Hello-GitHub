@@ -10,6 +10,7 @@ Visit My Site : http://www.dishantrathi.tk
 
 * [SICCiPy](https://github.com/dishantrathi/SICCiPy)
 * [CryptoLivePrice](https://github.com/dishantrathi/Crypto-Currency-Live-Exchange-Rates)
+* [Password Recovery using Python](https://github.com/dishantrathi/Password-Recovery-using-Python)
 
 ## The Fun Stuff
 
