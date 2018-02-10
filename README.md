@@ -8,7 +8,8 @@ Have a visit on
 
 ## Articles
 
-* AI : Posting Soon
+* [AI](https://medium.com/@dishantrathi/artificial-intelligence-6082a34d42e8)
+* [Beware CoffeeMiner project lets you hack public Wi-Fi to mine cryptocoins](https://medium.com/computerist/beware-coffeeminer-project-lets-you-hack-public-wi-fi-to-mine-cryptocoins-1915624c2ea5)
 
 ## Projects
 
@@ -16,6 +17,7 @@ Have a visit on
 * [CryptoLivePrice](https://github.com/dishantrathi/Crypto-Currency-Live-Exchange-Rates)
 * [Password Recovery using Python](https://github.com/dishantrathi/Password-Recovery-using-Python)
 * [Personal Website](https://github.com/dishantrathi/dishantrathi.github.io)
+* [litresin.ml](https://github.com/dishantrathi/litresin.ml)
 
 ## The Fun Stuff
 
@@ -28,7 +30,7 @@ Or Pull Request or Issue ! #HappyBugging
 
 ## Social Hub
 
-* Medium : 
+* Medium : [@dishantrathi](https://medium.com/@dishantrathi)
 * Facebook : [dishantrathi](https://www.facebook.com/dishantrathi)
 * Twitter : [techiedishant](https://twitter.com/techiedishant)
 * Instagram : [rathidishant](https://www.instagram.com/rathidishant/)
